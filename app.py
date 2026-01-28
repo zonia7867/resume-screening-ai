@@ -1,6 +1,5 @@
 """
-Resume Screening Automation - Professional Edition
-Modern UI with Font Awesome icons, button navigation, and smart filtering
+Resume Screening Automation 
 """
 
 import streamlit as st
@@ -49,7 +48,7 @@ if 'selected_candidate' not in st.session_state:
     st.session_state.selected_candidate = None
 
 # ============================================================================
-# MODERN CSS WITH FONT AWESOME ICONS
+#  CSS
 # ============================================================================
 
 st.markdown("""
@@ -465,7 +464,7 @@ def extract_education_level(text):
         return "Unknown"
 
 # ============================================================================
-# SIDEBAR WITH BUTTON NAVIGATION
+# SIDEBAR 
 # ============================================================================
 
 def render_sidebar():
