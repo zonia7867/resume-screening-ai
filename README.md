@@ -252,7 +252,3 @@ Sort by Score → Return Top N
 
 
 
-<div align="center">
-  <p>Made with ❤️ by Your Name</p>
-  <p>⭐ Star this repo if you find it useful!</p>
-</div>
